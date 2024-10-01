@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="Bonfire" src="images/bonfire.gifbonfire.gif" />
+  <img alt="Bonfire" src="images/bonfire.gif" />
 </p>
