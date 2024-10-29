@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="left">
-      <img alt="Bonfire" src="images/giphy.gif" width="500" heigth="375" />
+      <img alt="Bonfire" src="images/giphy.gif" width="500" height="375" />
     </td>
     <td align="left">
       <img alt="Bonfire" src="images/green.gif" />
