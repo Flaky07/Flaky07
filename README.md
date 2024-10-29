@@ -7,5 +7,8 @@
     <td align="left">
       <img alt="Bonfire" src="images/giphy.gif" />
     </td>
+    <td align="left">
+      <img alt="Bonfire" src="images/green.gif" />
+    </td>
   </tr>
 </table>
