@@ -1,4 +1,10 @@
-<p align="center">
-  <img alt="Bonfire" src="images/bonfire.gif" />
-  <img alt="Bonfire" src="images/giphy.gif" style="float: left; margin-right: 10px;" />
-</p>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img alt="Bonfire" src="images/giphy.gif" />
+    </td>
+    <td align="center" width="50%">
+      <img alt="Bonfire" src="images/bonfire.gif" />
+    </td>
+  </tr>
+</table>
