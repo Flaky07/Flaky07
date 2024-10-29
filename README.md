@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Bonfire" src="images/bonfire.gif" width="780" height="400"  />
+  <img alt="Bonfire" src="images/bonfire.gif" />
 </p>
 
 <table>
