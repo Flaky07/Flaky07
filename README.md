@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td align="left">
-      <img alt="Bonfire" src="images/giphy.gif" width="480" height="300" />
+      <img alt="Bonfire" src="images/giphy.gif" width="470" height="300" />
     </td>
     <td align="left">
-      <img alt="Bonfire" src="images/green.gif" width="480" height="300" />
+      <img alt="Bonfire" src="images/green.gif" width="470" height="300" />
     </td>
   </tr>
 </table>
